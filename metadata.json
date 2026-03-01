@@ -1,0 +1,7 @@
+{
+  "name": "AI 简历匠 (AI Resume Crafter)",
+  "description": "基于 AI 的智能简历编辑与排版工具，支持简历识别、实时预览与专业模板切换。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
